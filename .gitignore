@@ -1,0 +1,7 @@
+*.json
+.history/
+.vscode/
+.idea/
+*.exe
+*.stackdump
+build/
